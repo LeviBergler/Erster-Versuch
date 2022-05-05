@@ -1,0 +1,17 @@
+.title{
+    color: blue;
+}
+.hello{
+    color:brown;
+}
+.headdive{
+    border: 20px solid red;
+    align-items: center;
+    text-align: center;
+}
+.second{
+    border: 5px solid green;
+}
+.footer{
+    border: 10px solid blueviolet
+}
